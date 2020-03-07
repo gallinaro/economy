@@ -1,5 +1,7 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: Aspettarsi grosse ricompense per piccoli investimenti significa incoraggiare
+    un comportamento stupido.
+  maxWidthPX: "652"
+
 ---
