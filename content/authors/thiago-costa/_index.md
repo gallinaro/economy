@@ -1,19 +1,12 @@
 ---
-title: Thiago Costa
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/thiago-costa.jpg
+title: Marco Gallinaro
+bio: "\n"
+avatar: "/images/img_6khgjhgk285.jpg"
 featured: false
 social:
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: Twitter
+  url: https://twitter.com/gally_95
+- title: github
+  url: https://github.com
+
 ---
