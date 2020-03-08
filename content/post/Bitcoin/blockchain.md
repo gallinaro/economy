@@ -47,8 +47,8 @@ Le informazioni della blockchain vengono immagazzinate in blocchi collegati tra 
 
 Questo impedisce che i blocchi vengano alterati o che ne venga inserito uno tra due già collegati. Grazie alla grande accessibilità di questa tecnologia, sono nati molti tipi di blockchain che variano tra loro in quanto offrono soluzioni diverse ai comuni problemi queli la decentralizzazione, la scalabilità e la sicurezza. Le blockchain non possono mai eccellere in questi 3 campi contemporaneamente, ma devono scendere a compromessi.
 
-> Esempio
->
-> Bitcoin rinuncia alla scalabilità in cambio di decentralizzazione e sicurezza.
+ Esempio
+
+ Bitcoin rinuncia alla scalabilità in cambio di decentralizzazione e sicurezza.
 
 (in aggiornamento...)
