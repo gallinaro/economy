@@ -3,7 +3,7 @@ authors = []
 date = 2019-07-30T22:00:00Z
 excerpt = "Un prima definizione di blockchain la descrive come un archivio permanente che memorizza e gestisce transazioni; queste vengono immagazzinate in blocchi solo dopo che la rete stessa ha approvato e verificato la correttezza delle informazioni, di conseguenza ciascun blocco è contemporaneamente archivio e controllore di tutte le transazioni."
 hero = "/images/Blockchain.jpg"
-timeToRead = 3
+timeToRead = 4
 title = "Blockchain"
 
 +++
