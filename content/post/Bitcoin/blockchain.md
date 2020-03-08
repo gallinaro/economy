@@ -11,9 +11,9 @@ title = "Blockchain"
 
 Il paradigma tradizionale delle transazioni prevede che nello scambio di asset tra due utenti si faccia riferimento ad un’autorità centrale, la trusted third party (TTP). Questo ente ha il compito di registrare lo storico delle transazioni degli utenti, in modo da poter ricostruire in ogni momento lo stato del sistema.
 
-> Esempio
->
-> Pagamento tramite carta di credito: 2 utenti devono passare attraverso la banca, questa da un lato garantisce che l'utente che cede denaro abbia la disponibilità economica per farlo e dall'altro che la transazione avvenga con successo.
+> > Esempio
+> >
+> > Pagamento tramite carta di credito: 2 utenti devono passare attraverso la banca, questa da un lato garantisce che l'utente che cede denaro abbia la disponibilità economica per farlo e dall'altro che la transazione avvenga con successo.
 
 La presenza di questo ente centrale è necessaria per garantire il corretto funzionamento del servizio.
 
