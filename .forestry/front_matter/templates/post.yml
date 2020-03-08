@@ -12,6 +12,7 @@ fields:
   config:
     required: false
   label: Excerpt
+  description: blockchain
 - name: date
   type: datetime
   label: Date
