@@ -11,9 +11,9 @@ title = "Blockchain"
 
 Il paradigma tradizionale delle transazioni prevede che nello scambio di asset tra due utenti si faccia riferimento ad un’autorità centrale, la trusted third party (TTP). Questo ente ha il compito di registrare lo storico delle transazioni degli utenti, in modo da poter ricostruire in ogni momento lo stato del sistema.
 
-> > Esempio
-> >
-> > Pagamento tramite carta di credito: 2 utenti devono passare attraverso la banca, questa da un lato garantisce che l'utente che cede denaro abbia la disponibilità economica per farlo e dall'altro che la transazione avvenga con successo.
+> _Esempio_
+>
+> _Pagamento tramite carta di credito: 2 utenti devono passare attraverso la banca, questa da un lato garantisce che l'utente che cede denaro abbia la disponibilità economica per farlo e dall'altro che la transazione avvenga con successo._
 
 La presenza di questo ente centrale è necessaria per garantire il corretto funzionamento del servizio.
 
@@ -21,7 +21,7 @@ La presenza di questo ente centrale è necessaria per garantire il corretto funz
 
 Non si può non accennare a Bitcoin quando si vuole introdurre l’argomento blockchain. Nel 2008 Satoshi Nakamoto (pseudonimo) propone un’alternativa alla centralizzazione discussa prima, progettando la prima blockchain, in grado di garantire transazioni Bitcoin senza la necessità della garanzia di un ente centrale.
 
-> Bisogna specificare che il termine Bitcoin indica sia la valuta che viene scambiata, sia il protocollo che gestisce il sistema, inoltre è opportuno sottolineare che il protocollo Bitcoin definisce una blockchain, non la blockchain in generale
+> _Bisogna specificare che il termine Bitcoin indica sia la valuta che viene scambiata, sia il protocollo che gestisce il sistema, inoltre è opportuno sottolineare che il protocollo Bitcoin definisce una blockchain, non la blockchain in generale_
 
 Il Bitcoin è stato inventato nel 2008 con la pubblicazione di un paper scientifico intitolato “Bitcoin:A peer-to-peer electronic cash system” da Nakamoto. Bitcoin è un contante elettronico completamente decentralizzato che non dipende da nessuna autorità centrale per l’emissione, la liquidazione e la validazione delle transazioni. Combinando alcune tecnologie già affermate (crittografia e comunicazione tra nodi), Nakamoto presenta la prima rete di scambio P2P completamente decentralizzata che permette agli utenti di scambiarsi direttamente del denaro senza passare per un ente centrale. Rispetto alle tradizionali transazioni la tecnologia blockchain prevede che tutti i nodi che fanno parte della rete possiedano una copia del registro delle transazioni, rendendolo così accessibile a tutti. Inoltre, il protocollo fa in modo che le copie del registro in mano a differenti nodi siano coerenti tra loro, così da non poter ingannare il sistema. Il network bitcoin è basato sull’implementazione di riferimento pubblicata da Nakamoto, essendo esso open source da quel momento in poi è stato visto e modificato da molti altri programmatori, la conseguenza è stata la nascita di migliaia di criptovalute alternative a Bitcoin. Inoltre, ci si è resi conto che soffermarsi alle criptovalute è estremamente riduttivo, in quanto la tecnologia blockchain permette di decentralizzare le transazioni di qualsiasi asset digitale. Questa tecnologia ha infatti la capacità di sostituirsi a qualsiasi ente che controlli in modo centralizzato una rete o un sistema.
 
@@ -41,14 +41,14 @@ Ogni nodo a prescindere dal proprio livello può inoltre ricoprire 2 ruoli all'i
 
 Le informazioni della blockchain vengono immagazzinate in blocchi collegati tra loro a creare una catena, per cui al crescere del numero delle transazioni, aumenta anche il volume della blockchain. Ogni blocco associa alla transazioni valide una marca che contiene il proprio codice hash e quello del blocco precedente.
 
-> Funzioni di hash
+> _Funzioni di hash_
 >
-> è un algoritmo che elabora un input di lunghezza variabile e lo trasforma in un output di lunghezza fissa chiamato hash
+> _è un algoritmo che elabora un input di lunghezza variabile e lo trasforma in un output di lunghezza fissa chiamato hash_
 
 Questo impedisce che i blocchi vengano alterati o che ne venga inserito uno tra due già collegati. Grazie alla grande accessibilità di questa tecnologia, sono nati molti tipi di blockchain che variano tra loro in quanto offrono soluzioni diverse ai comuni problemi queli la decentralizzazione, la scalabilità e la sicurezza. Le blockchain non possono mai eccellere in questi 3 campi contemporaneamente, ma devono scendere a compromessi.
 
-> Esempio
+> _Esempio_
 >
-> Bitcoin rinuncia alla scalabilità in cambio di decentralizzazione e sicurezza.
+> _Bitcoin rinuncia alla scalabilità in cambio di decentralizzazione e sicurezza._
 
 (in aggiornamento...)
